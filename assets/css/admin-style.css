@@ -1,0 +1,149 @@
+.ui-checkboxradio-icon{
+	display: none !important;
+}
+.radio-select input[type='radio']{
+	display:none !important;
+}
+.radio-select label{
+	margin-right: 10px;
+}
+.redux_field_th{
+    padding-top: 20px !important;
+}
+.radio-select label.active img{
+	border:2px solid #4caf50;
+}
+.wp-picker-container{
+	display: inline-block !important;
+}
+.ocdi.wrap.about-wrap .notice-info{
+   display: none !important;
+}
+.ocdi__demo-import-notice{
+	color: #ff0000 !important;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	line-height: 25px !important;
+}
+.redux-container .redux-main .redux-field-container {
+  padding: 20px 0 !important;
+}
+.notice.notice-success{
+	color: green !important;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	line-height: 25px !important;
+}
+.jBox-wrapper{
+	z-index: 99999 !important;
+}
+.redux-container #redux-header .display_header span.redux-dev-mode-notice{
+	display:none !important;
+}
+.redux-container .redux-main .wp-picker-container .wp-color-result {
+    margin: 0 6px 0px 0 !important;
+}
+
+.redux-container .redux-main .color-transparency-check {
+    padding-top: 0;
+}
+#redux-header .rAds{
+	display:none !important;
+}
+
+.redux-notice-field.redux-success{
+	border-left-color:#f84e77 !important ;
+	background: #143d9e;
+	color:#fff;
+}
+
+#adminmenu li.menu-top.toplevel_page_neoton{
+	background: #1273EB
+}
+.cmb-tabs-wrap {
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    margin: -6px -12px -12px -12px;
+}
+
+.cmb-tabs-wrap .cmb-tabs {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+
+    background-color: #fafafa;
+    border-bottom: 1px solid #eee;
+}
+
+.cmb-tabs-wrap .cmb-tabs .cmb-tab {
+    display: block;
+    float: left;
+    cursor: pointer;
+    padding: 10px;
+    border-right: 1px solid #eee;
+}
+
+.cmb-tabs-wrap .cmb-tabs .cmb-tab .cmb-tab-icon {
+    margin-right: 5px;
+}
+
+.cmb-tabs-wrap .cmb-tabs .cmb-tab:hover {
+    background-color: #f8f8f8;
+}
+
+.cmb-tabs-wrap .cmb-tabs .cmb-tab.active {
+    background-color: #fff;
+}
+
+.cmb-tabs-wrap .cmb2-wrap {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.cmb2-options-page .cmb-tabs-wrap .cmb2-wrap .cmb2-metabox > .cmb-row:first-child {
+    margin-top: 1px;
+}
+
+.cmb-tabs-wrap .cmb2-wrap .cmb-row:not(.cmb-tab-active-item) {
+    display: none;
+}
+
+/* Vertical tabs */
+.cmb-tabs-wrap.cmb-tabs-vertical {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.cmb-tabs-wrap.cmb-tabs-vertical .cmb-tabs {
+    -ms-flex-preferred-size: 200px;
+    flex-basis: 200px;
+    max-width: 200px;
+
+    border-bottom: none;
+    border-right: 1px solid #eee;
+
+    margin-right: -1px;
+}
+
+.cmb-tabs-wrap.cmb-tabs-vertical .cmb-tabs .cmb-tab {
+    float: none;
+    border-right: none;
+    border-bottom: 1px solid #eee;
+}
+
+/* Widget area */
+.widget-content .cmb-tabs-wrap {
+    margin: -1px -15px 0px -15px;
+}
